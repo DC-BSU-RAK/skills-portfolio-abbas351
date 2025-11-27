@@ -1,0 +1,56 @@
+Name: Sarah Johnson
+Student No.: 6347
+Coursework Total: 54 / 60
+Exam: 89 / 100
+Percentage: 89.38%
+Grade: A
+----------------------------------------
+Name: Emma Watson
+Student No.: 7562
+Coursework Total: 45 / 60
+Exam: 78 / 100
+Percentage: 76.88%
+Grade: A
+----------------------------------------
+Name: Michael Brown
+Student No.: 9123
+Coursework Total: 36 / 60
+Exam: 56 / 100
+Percentage: 57.5%
+Grade: C
+----------------------------------------
+Name: Jake Hobbs
+Student No.: 8439
+Coursework Total: 30 / 60
+Exam: 43 / 100
+Percentage: 45.62%
+Grade: D
+----------------------------------------
+Name: David Wilson
+Student No.: 4981
+Coursework Total: 24 / 60
+Exam: 34 / 100
+Percentage: 36.25%
+Grade: F
+----------------------------------------
+Name: Abbas
+Student No.: 14
+Coursework Total: 222 / 60
+Exam: 56 / 100
+Percentage: 173.75%
+Grade: A
+----------------------------------------
+Name: Abdul
+Student No.: 12
+Coursework Total: 177 / 60
+Exam: 67 / 100
+Percentage: 152.5%
+Grade: A
+----------------------------------------
+Name: wahab
+Student No.: 1
+Coursework Total: 198 / 60
+Exam: 98 / 100
+Percentage: 185.0%
+Grade: A
+----------------------------------------
